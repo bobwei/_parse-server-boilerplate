@@ -21,7 +21,7 @@
     "express": "^4.16.1",
     "parse": "^1.10.0",
     "parse-dashboard": "^1.1.0",
-    "parse-server": "^2.5.3",
+    "parse-server": "^2.6.3",
     "ramda": "^0.24.1"
   },
   "devDependencies": {
